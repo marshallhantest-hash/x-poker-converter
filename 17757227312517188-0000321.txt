@@ -1,0 +1,55 @@
+X-Poker Hand #17757227312517188-0000321
+Replay Key: fbf04305-2a90-5e7d-aa12-f0983636648c
+Table: 4.06#Crazy 27o🤡
+Blinds: 5/10
+Seats: 8
+
+Starting Stacks
+BTN (seat 6) 幸運星: 1500 (150 BB)
+SB (seat 7) 狐狸: 1075.75 (107.575 BB)
+BB (seat 0) 塘塘: 2340.25 (234.025 BB)
+UTG (seat 1) 瑪琪瑪的狗狗: 1933.75 (193.375 BB)
+UTG+1 (seat 2) XP3838644: 7723.2 (772.32 BB)
+MP (seat 3) 我是卡努: 1165 (116.5 BB)
+HJ (seat 4) 台東長濱鄉❤: 2330.9 (233.09 BB)
+CO (seat 5) XP4009326: 2000 (200 BB)
+
+Known Hole Cards
+SB 狐狸: [A♣️ J♥️] (shown)
+UTG 瑪琪瑪的狗狗: [K♠️ Q♠️] (shown)
+
+Preflop (Pot 2.5 BB)
+SB 狐狸 posts SB 0.5 BB
+BB 塘塘 posts BB 1 BB
+BTN 幸運星 posts dead BB 1 BB
+UTG 瑪琪瑪的狗狗 raises to 3 BB
+UTG+1 XP3838644 folds
+MP 我是卡努 folds
+HJ 台東長濱鄉❤ folds
+CO XP4009326 folds
+BTN 幸運星 folds
+SB 狐狸 raises to 7.5 BB
+BB 塘塘 folds
+UTG 瑪琪瑪的狗狗 calls 4.5 BB
+
+Flop [K♣️ 3♥️ 8♥️] (Pot 17 BB)
+SB 狐狸 checks
+UTG 瑪琪瑪的狗狗 checks
+
+Turn [K♣️ 3♥️ 8♥️ 9♠️] (Pot 17 BB)
+SB 狐狸 checks
+UTG 瑪琪瑪的狗狗 bets 8.5 BB
+SB 狐狸 calls 8.5 BB
+
+River [K♣️ 3♥️ 8♥️ 9♠️ 7♣️] (Pot 34 BB)
+SB 狐狸 checks
+UTG 瑪琪瑪的狗狗 checks
+
+Showdown
+SB 狐狸 shows [A♣️ J♥️]
+UTG 瑪琪瑪的狗狗 shows [K♠️ Q♠️]
+UTG 瑪琪瑪的狗狗 wins 32.05 BB with [K♠️ K♣️ Q♠️ 9♠️ 8♥️]
+
+Fees
+Rake: 1.7 BB
+Jackpot fee: 0.25 BB

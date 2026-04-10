@@ -1,0 +1,49 @@
+PokerStars Hand #177572273125171880000321: Hold'em No Limit (5/10) - 2026/04/09 14:27:33 ET
+Table 'XGame 2517188' 8-max (Play Money) Seat #7 is the button
+Seat 1: 塘塘 (2340.25 in chips)
+Seat 2: 瑪琪瑪的狗狗 (1933.75 in chips)
+Seat 3: XP3838644 (7723.2 in chips)
+Seat 4: 我是卡努 (1165 in chips)
+Seat 5: 台東長濱鄉❤ (2330.9 in chips)
+Seat 6: XP4009326 (2000 in chips)
+Seat 7: 幸運星 (1500 in chips)
+Seat 8: 狐狸 (1075.75 in chips)
+狐狸: posts small blind 5
+塘塘: posts big blind 10
+幸運星: posts big blind 10
+*** HOLE CARDS ***
+Dealt to 瑪琪瑪的狗狗 [Qs Ks]
+瑪琪瑪的狗狗: raises 20 to 30
+XP3838644: folds
+我是卡努: folds
+台東長濱鄉❤: folds
+XP4009326: folds
+幸運星: folds
+狐狸: raises 45 to 75
+塘塘: folds
+瑪琪瑪的狗狗: calls 45
+*** FLOP *** [Kc 3h 8h]
+狐狸: checks
+瑪琪瑪的狗狗: checks
+*** TURN *** [Kc 3h 8h] [9s]
+狐狸: checks
+瑪琪瑪的狗狗: bets 85
+狐狸: calls 85
+*** RIVER *** [Kc 3h 8h 9s] [7c]
+狐狸: checks
+瑪琪瑪的狗狗: checks
+*** SHOW DOWN ***
+狐狸: shows [Ac Jh]
+瑪琪瑪的狗狗: shows [Qs Ks]
+瑪琪瑪的狗狗 collected 320.5 from pot
+*** SUMMARY ***
+Total pot 340 | Rake 19.5
+Board [Kc 3h 8h 9s 7c]
+Seat 1: 塘塘 (big blind) folded before Flop
+Seat 2: 瑪琪瑪的狗狗 showed [Qs Ks] and won (320.5)
+Seat 3: XP3838644 folded before Flop
+Seat 4: 我是卡努 folded before Flop
+Seat 5: 台東長濱鄉❤ folded before Flop
+Seat 6: XP4009326 folded before Flop
+Seat 7: 幸運星 (button) folded before Flop
+Seat 8: 狐狸 (small blind) showed [Ac Jh] and lost

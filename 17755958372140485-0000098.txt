@@ -1,0 +1,49 @@
+X-Poker Hand #17755958372140485-0000098
+Replay Key: d03134e9-5ca7-535f-9378-e3d217c15bf8
+Table: 4.06#Crazy 27o🤡
+Blinds: 10/20
+Seats: 8
+
+Starting Stacks
+BTN (seat 0) 卷煙: 2000 (100 BB)
+SB (seat 1) 我AA也這樣打: 4847.49 (242.375 BB)
+BB (seat 2) 瑪琪瑪的狗狗: 2483.6 (124.18 BB)
+UTG (seat 3) Jellycat: 3632.5 (181.625 BB)
+UTG+1 (seat 4) weed420: 2163.6 (108.18 BB)
+MP (seat 5) XP3998588: 1970 (98.5 BB)
+HJ (seat 6) Jangzz: 2971.5 (148.575 BB)
+CO (seat 7) MoneyTaker69: 2485.85 (124.293 BB)
+
+Known Hole Cards
+BTN 卷煙: [Q♥️ Q♠️] (shown)
+BB 瑪琪瑪的狗狗: [K♥️ K♠️] (shown)
+
+Preflop (Pot 1.5 BB)
+SB 我AA也這樣打 posts SB 0.5 BB
+BB 瑪琪瑪的狗狗 posts BB 1 BB
+UTG Jellycat folds
+UTG+1 weed420 folds
+MP XP3998588 folds
+HJ Jangzz folds
+CO MoneyTaker69 folds
+BTN 卷煙 raises to 3 BB
+SB 我AA也這樣打 raises to 12 BB
+BB 瑪琪瑪的狗狗 raises to 30 BB
+BTN 卷煙 raises to 100 BB (all-in)
+SB 我AA也這樣打 folds
+BB 瑪琪瑪的狗狗 calls 94.18 BB (all-in)
+
+Flop [2♦️ 2♥️ T♣️] (Pot 236.18 BB)
+
+Turn [2♦️ 2♥️ T♣️ 7♠️] (Pot 236.18 BB)
+
+River [2♦️ 2♥️ T♣️ 7♠️ Q♦️] (Pot 236.18 BB)
+
+Showdown
+BTN 卷煙 shows [Q♥️ Q♠️]
+BB 瑪琪瑪的狗狗 shows [K♥️ K♠️]
+BTN 卷煙 wins 208.88 BB with [Q♠️ Q♥️ Q♦️ 2♦️ 2♥️]
+
+Fees
+Rake: 3 BB
+Jackpot fee: 0.12 BB

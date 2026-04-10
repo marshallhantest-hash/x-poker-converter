@@ -1,0 +1,49 @@
+PokerStars Hand #177572273125171880000321: Hold'em No Limit (5/10) - 2026/04/09 14:27:33 ET
+Table 'XGame 2517188' 8-max (Play Money) Seat #7 is the button
+Seat 1: 85329603 (2340.25 in chips)
+Seat 2: 57215690 (1933.75 in chips)
+Seat 3: 65102562 (7723.2 in chips)
+Seat 4: 34264283 (1165 in chips)
+Seat 5: 92725873 (2330.9 in chips)
+Seat 6: 76514096 (2000 in chips)
+Seat 7: 39608042 (1500 in chips)
+Seat 8: 12309074 (1075.75 in chips)
+12309074: posts small blind 5
+85329603: posts big blind 10
+39608042: posts big blind 10
+*** HOLE CARDS ***
+Dealt to 57215690 [Qs Ks]
+57215690: raises 20 to 30
+65102562: folds
+34264283: folds
+92725873: folds
+76514096: folds
+39608042: folds
+12309074: raises 45 to 75
+85329603: folds
+57215690: calls 45
+*** FLOP *** [Kc 3h 8h]
+12309074: checks
+57215690: checks
+*** TURN *** [Kc 3h 8h] [9s]
+12309074: checks
+57215690: bets 85
+12309074: calls 85
+*** RIVER *** [Kc 3h 8h 9s] [7c]
+12309074: checks
+57215690: checks
+*** SHOW DOWN ***
+12309074: shows [Ac Jh]
+57215690: shows [Qs Ks]
+57215690 collected 320.5 from pot
+*** SUMMARY ***
+Total pot 340 | Rake 19.5
+Board [Kc 3h 8h 9s 7c]
+Seat 1: 85329603 (big blind) folded before Flop
+Seat 2: 57215690 showed [Qs Ks] and won (320.5)
+Seat 3: 65102562 folded before Flop
+Seat 4: 34264283 folded before Flop
+Seat 5: 92725873 folded before Flop
+Seat 6: 76514096 folded before Flop
+Seat 7: 39608042 (button) folded before Flop
+Seat 8: 12309074 (small blind) showed [Ac Jh] and lost

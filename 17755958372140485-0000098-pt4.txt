@@ -1,0 +1,43 @@
+PokerStars Hand #177559583721404850000098: Hold'em No Limit (10/20) - 2026/04/08 03:20:37 ET
+Table 'XGame 2140485' 8-max (Play Money) Seat #1 is the button
+Seat 1: 卷煙 (2000 in chips)
+Seat 2: 我AA也這樣打 (4847.49 in chips)
+Seat 3: 瑪琪瑪的狗狗 (2483.6 in chips)
+Seat 4: Jellycat (3632.5 in chips)
+Seat 5: weed420 (2163.6 in chips)
+Seat 6: XP3998588 (1970 in chips)
+Seat 7: Jangzz (2971.5 in chips)
+Seat 8: MoneyTaker69 (2485.85 in chips)
+我AA也這樣打: posts small blind 10
+瑪琪瑪的狗狗: posts big blind 20
+*** HOLE CARDS ***
+Dealt to 瑪琪瑪的狗狗 [Ks Kh]
+Jellycat: folds
+weed420: folds
+XP3998588: folds
+Jangzz: folds
+MoneyTaker69: folds
+卷煙: raises 40 to 60
+我AA也這樣打: raises 180 to 240
+瑪琪瑪的狗狗: raises 360 to 600
+卷煙: raises 1400 to 2000 and is all-in
+我AA也這樣打: folds
+瑪琪瑪的狗狗: calls 1883.6 and is all-in
+*** FLOP *** [2d 2h Tc]
+*** TURN *** [2d 2h Tc] [7s]
+*** RIVER *** [2d 2h Tc 7s] [Qd]
+*** SHOW DOWN ***
+卷煙: shows [Qs Qh]
+卷煙 collected 4177.6 from pot
+瑪琪瑪的狗狗: shows [Ks Kh]
+*** SUMMARY ***
+Total pot 4723.6 | Rake 62.4
+Board [2d 2h Tc 7s Qd]
+Seat 1: 卷煙 (button) showed [Qs Qh] and won (4177.6)
+Seat 2: 我AA也這樣打 (small blind) folded before Flop
+Seat 3: 瑪琪瑪的狗狗 (big blind) showed [Ks Kh] and lost
+Seat 4: Jellycat folded before Flop
+Seat 5: weed420 folded before Flop
+Seat 6: XP3998588 folded before Flop
+Seat 7: Jangzz folded before Flop
+Seat 8: MoneyTaker69 folded before Flop
